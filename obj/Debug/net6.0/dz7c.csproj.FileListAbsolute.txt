@@ -1,0 +1,15 @@
+C:\Users\89853\OneDrive\Рабочий стол\dz7c\bin\Debug\net6.0\dz7c.exe
+C:\Users\89853\OneDrive\Рабочий стол\dz7c\bin\Debug\net6.0\dz7c.deps.json
+C:\Users\89853\OneDrive\Рабочий стол\dz7c\bin\Debug\net6.0\dz7c.runtimeconfig.json
+C:\Users\89853\OneDrive\Рабочий стол\dz7c\bin\Debug\net6.0\dz7c.dll
+C:\Users\89853\OneDrive\Рабочий стол\dz7c\bin\Debug\net6.0\dz7c.pdb
+C:\Users\89853\OneDrive\Рабочий стол\dz7c\obj\Debug\net6.0\dz7c.csproj.AssemblyReference.cache
+C:\Users\89853\OneDrive\Рабочий стол\dz7c\obj\Debug\net6.0\dz7c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\89853\OneDrive\Рабочий стол\dz7c\obj\Debug\net6.0\dz7c.AssemblyInfoInputs.cache
+C:\Users\89853\OneDrive\Рабочий стол\dz7c\obj\Debug\net6.0\dz7c.AssemblyInfo.cs
+C:\Users\89853\OneDrive\Рабочий стол\dz7c\obj\Debug\net6.0\dz7c.csproj.CoreCompileInputs.cache
+C:\Users\89853\OneDrive\Рабочий стол\dz7c\obj\Debug\net6.0\dz7c.dll
+C:\Users\89853\OneDrive\Рабочий стол\dz7c\obj\Debug\net6.0\refint\dz7c.dll
+C:\Users\89853\OneDrive\Рабочий стол\dz7c\obj\Debug\net6.0\dz7c.pdb
+C:\Users\89853\OneDrive\Рабочий стол\dz7c\obj\Debug\net6.0\dz7c.genruntimeconfig.cache
+C:\Users\89853\OneDrive\Рабочий стол\dz7c\obj\Debug\net6.0\ref\dz7c.dll
